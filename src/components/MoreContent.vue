@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">祝愿看到这行字的朋友们，永远开心。(●'◡'●)</div>
 </template>
 
 <style lang="scss" scoped>
